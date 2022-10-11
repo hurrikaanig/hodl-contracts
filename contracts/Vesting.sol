@@ -4,7 +4,6 @@ pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "./interfaces/IFHodl.sol";
-import "./FHodl.sol";
 
 contract VestingForcedHodl is Ownable{
     
